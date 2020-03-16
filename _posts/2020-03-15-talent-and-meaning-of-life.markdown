@@ -13,16 +13,16 @@ Hard work beats talent. That's what a quick Google search will tell you. There's
 
 Slow and steady wins the race. My little one loves the story but I don't for a few reasons. 
 
-1. If the rabbit is actually a talent at running, she would rather be running than taking a nap. 
-2. The whole argument between talent and hard work is too simplistic and leaves aside the [influence of luck](https://www.scientificamerican.com/article/does-success-come-mostly-from-talent-hard-work-mdash-or-luck/). In an analogy with poker, talent and hard work are just the things that keep you at the table until you get lucky.
+1. If the hare is actually a talent at running, she would rather be running than taking a nap. 
+2. The whole argument between talent and hard work is too simplistic and leaves aside the [influence of luck](https://www.scientificamerican.com/article/does-success-come-mostly-from-talent-hard-work-mdash-or-luck/). In an analogy with poker, talent and hard work are just able to keep you sitting at the table when you're not lucky. But you need luck to win the game. The tortoise gets lucky when the hare sleeps for longer than expected.
 3. And above all, hard work and talent are just the same: _traits_. They're both given to us by either genetics, our environment or a [combination of both](https://en.wikipedia.org/wiki/Epigenetics).
 
 ![Luck and courage]({{site.baseurl}}/assets/img/luck-courage.jpg)
 
-There's no reason to brag about our hard work, talent or even courage because we did nothing to receive them.
+There's no reason to brag about our hard work, talent or even courage because we did very little to receive them.
 
 ## The Big Question​
-I'm not a religious person but always wondered what are we doing here. Not an original question and it seems we [need explanations](https://blogs.scientificamerican.com/mind-guest-blog/why-we-wonder-why/) for everything. So [teleology](https://en.wikipedia.org/wiki/Teleology) comes to the rescue. But it turns out the Big Question is tough so there's even a [dilemma](https://www.psychologytoday.com/us/blog/philosophy-dispatches/201111/the-teleologists-dilemma-life-has-no-purpose?collection=81244) around it.
+I'm not a religious person but always wondered what are we doing here. Not an original question as it seems we need explanations [for everything](https://blogs.scientificamerican.com/mind-guest-blog/why-we-wonder-why/). So [teleology](https://en.wikipedia.org/wiki/Teleology) comes to the rescue. But it turns out the Big Question is tough and there's even a [dilemma](https://www.psychologytoday.com/us/blog/philosophy-dispatches/201111/the-teleologists-dilemma-life-has-no-purpose?collection=81244) around it.
 
 Religion, philosophy and even science provided many [popular views](https://en.wikipedia.org/wiki/Meaning_of_life#Popular_views) for the [meaning of life](https://plato.stanford.edu/entries/life-meaning/). The good news is that we'll never know if there's a correct answer to the question. So you get to pick the one you like the most and move on.
 
@@ -34,34 +34,40 @@ I'm a pragmatic guy who likes simple solutions. So I have a couple of problems w
 
 It's not frequent that I have an original idea. My brain seems to run a couple of processes. One collects what looks like useless information. A fancy name for this is _Input_, which is one of my top 3 strengths according to [Gallup](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx). Another process receives problems and tries to solve them. More often than not, solutions are a mashup of useless things in store. You can call them _The Frankensteins_ or _Ideation_, another of my top 3 strengths. 
 
-Note I'm using the word _process_ and never mention _threads_. One processing unit, two processes, zero concurrency up there. My loving wife always has a hard time getting that.
+Note I'm using the word _process_ and never mention any _thread_. One processing unit, two processes, zero concurrency up there. My loving wife always has a hard time getting that.
 
 ## The case for talent
 There's a very strong case for _hard work_ so I'll put myself on the side of _talent_ for a moment. I believe talent can provide a simple answer to the Big Question.
 
-Let's say you send someone or something on a mission. To maximize chances of success, you provide them with the [equipment](https://mars.nasa.gov/msl/spacecraft/instruments/summary/) they need to complete it. Makes sense so far? 
+Let's say you send someone or something on a mission. To maximize chances of success, you provide them with the [equipment](https://mars.nasa.gov/msl/spacecraft/instruments/summary/) they need to complete it.
 
 ![Equipment for a mission]({{site.baseurl}}/assets/img/rover.jpg)
 
-Can we consider our talents, and even our ideas, as the **equipment we need to complete our mission**? Doesn't it sound like the best proxy we have? Then it's our responsibility to make the best use of them.
+Can we then consider our talents, and even our ideas, as the **equipment we need to complete our mission**? Doesn't it sound like the best proxy we have?
 
-And there you have one of my few original ideas. There's a high chance for it to be yet another of _The Frankesteins_ but, at least, I don't remember collecting it somewhere else.
+And there you have one of my few original ideas. Or at least that's what I thought before talking to a friend.
+
+![Spiderman: with great power comes great responsibility]({{site.baseurl}}/assets/img/spiderman.jpg)
+
+But it was original to me. I should read more comics.
 
 ## Find your talents and use them
-That's a simple concept, right? The bad news is that talent, many times, goes unnoticed. Isn't it funny that a music teacher had in his room [half of The Beatles](https://www.youtube.com/watch?v=FLbXrNGVXfE) and didn't see any talent in them? 
+If the theory above makes sense, it's our responsibility to make the best use of our talents. That's a simple concept, right? 
+
+The bad news is that talent, many times, goes unnoticed. Isn't it funny that a music teacher had in his room [half of The Beatles](https://www.youtube.com/watch?v=FLbXrNGVXfE) and didn't see any talent in them? 
 
 The good news is that it seems like using our talents [makes us happy](https://www.amazon.com/First-Break-All-Rules-Differently/dp/1531865208). It makes sense if you think about it:
 
 *   You have a mission.
 *   You send someone to complete it but don't tell them so.
 *   You give them some equipment.
-*   To make sure they use them, you [make them happy](https://www.psychologytoday.com/us/blog/evolution-the-self/200904/the-wisdom-spontaneity-part-5) when they do it.
+*   To make sure they use it, you [make them happy](https://www.psychologytoday.com/us/blog/evolution-the-self/200904/the-wisdom-spontaneity-part-5).
 
-Simple in concept, same as reproduction. For some reason, the use of our talents didn't make it to the base of [Maslow's hierarchy of needs](https://www.simplypsychology.org/maslow.html) but to the top instead. Way easier to left talents behind then.
+Another simple concept, with a successful track record for reproduction. For some reason, the use of our talents didn't make it to the base of [Maslow's hierarchy of needs](https://www.simplypsychology.org/maslow.html) but to the top instead. Way easier to left talents behind then.
 
 ![Maslow's hierarchy of needs]({{site.baseurl}}/assets/img/maslow.jpg)
 
-Finding your talents is your best investment. If you find yourself not working _hard enough_, I would look at how your tasks relate to your talents before anything else. To get lucky, you need to be sitting at the table.
+Finding your talents is your best investment. If you find yourself not working _hard enough_, I would look at how your tasks relate to your talents before anything else. To get lucky, you need to stay sitting at the table.
 
 After all, when checking out, the use of our talents could measure the success of our stay here. My current balance is not something to brag about so I made a vow to myself. Making the best use of my talents will be the main driver for my decisions moving forward.
 
