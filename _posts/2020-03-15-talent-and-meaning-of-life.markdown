@@ -60,10 +60,10 @@ The good news is that it seems like using our talents [makes us happy](https://w
 
 *   You have a mission.
 *   You send someone to complete it but don't tell them so.
-*   You give them some equipment.
+*   You give them some equipment as a proxy to the mission.
 *   To make sure they use it, you [make them happy](https://www.psychologytoday.com/us/blog/evolution-the-self/200904/the-wisdom-spontaneity-part-5).
 
-Another simple concept, with a successful track record for reproduction. For some reason, the use of our talents didn't make it to the base of [Maslow's hierarchy of needs](https://www.simplypsychology.org/maslow.html) but to the top instead. Way easier to left talents behind then.
+Another simple concept, with a successful track record for reproduction. But something failed along the way and the use of our talents didn't make it to the base of [Maslow's hierarchy of needs](https://www.simplypsychology.org/maslow.html). It made it to the top instead. It sounds cool because it's a more exclusive club but it makes easier to leave talents behind.
 
 ![Maslow's hierarchy of needs]({{site.baseurl}}/assets/img/maslow.jpg)
 
