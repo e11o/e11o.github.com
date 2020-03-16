@@ -59,7 +59,7 @@ The good news is that it seems like using our talents [makes us happy](https://w
 
 Simple in concept, same as reproduction. For some reason, the use of our talents didn't make it to the base of [Maslow's hierarchy of needs](https://www.simplypsychology.org/maslow.html) but to the top instead. Way easier to left talents behind then.
 
-![Maslow's hierarchy of needs]({{site.baseurl}}/assets/img/maslow-needs2.webp)
+![Maslow's hierarchy of needs]({{site.baseurl}}/assets/img/maslow.jpg)
 
 Finding your talents is your best investment. If you find yourself not working _hard enough_, I would look at how your tasks relate to your talents before anything else. To get lucky, you need to be sitting at the table.
 
