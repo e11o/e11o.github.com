@@ -63,7 +63,7 @@ The good news is that it seems like using our talents [makes us happy](https://w
 *   You give them some equipment as a proxy to the mission.
 *   To make sure they use it, you [make them happy](https://www.psychologytoday.com/us/blog/evolution-the-self/200904/the-wisdom-spontaneity-part-5).
 
-Another simple concept, with a successful track record for reproduction. But something failed along the way and the use of our talents didn't make it to the base of [Maslow's hierarchy of needs](https://www.simplypsychology.org/maslow.html). It made it to the top instead. It sounds cool because it's a more exclusive club but it makes easier to leave talents behind.
+Positive reinforcement is the fancy name. Another simple concept, with a successful track record for reproduction. But something failed along the way and the use of our talents didn't make it to the base of [Maslow's hierarchy of needs](https://www.simplypsychology.org/maslow.html). It made it to the top instead. It sounds better, a more exclusive club, but it actually makes leaving talents behind easier.
 
 ![Maslow's hierarchy of needs]({{site.baseurl}}/assets/img/maslow.jpg)
 
