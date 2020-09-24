@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Esteban Sancho # add your name
 author-img: esteban-sancho.jpg # add your photo
-about-author: I help organizations improve how they deliver software. They change people lives for the better. # add description
+about-author: I help organizations build better software. They change people lives for the better. # add description
 social-twitter: esteban_sancho # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: e11o # add your Github handle
