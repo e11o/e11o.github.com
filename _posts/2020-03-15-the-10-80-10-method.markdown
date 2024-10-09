@@ -1,0 +1,32 @@
+---
+layout: post
+title: The 10-80-10 Principle: The Best Use of Your Time to Get Extraordinary Results
+date: 2020-03-15 09:57:20 +0300
+description: A method to maximize your impact as a leader. # Add post description (optional)
+img: steve-jobs-and-iphone.jpg # Add image post (optional)
+fig-caption: Steve Jobs and the iPhone # Add figcaption (optional)
+tags: [Time management, Mental Models,Leadership]
+---
+Great leadership isn’t about doing everything yourself; it’s about knowing when to lead, when to support, and when to elevate. The 10-80-10 principle offers a straightforward framework to maximize your impact and empower your team. Here’s how it works:
+
+1. The First 10%: Set the Vision
+
+This is where you take charge—defining goals, shaping strategy, and making sure everyone understands the “why.” Your responsibility is to set the stage and point the team in the right direction. Think big, and make it clear.
+
+2. The Middle 80%: Trust the Team
+
+Once the vision is clear, step back. Your role is to offer support, provide resources, and trust your team to execute. This phase is about empowerment. You’re still there for guidance but not micromanagement.
+
+3. The Final 10%: Add the Magic
+
+Now, it’s time to dive back in. Review, refine, and push for excellence. Your role here is to add that final layer of polish that elevates the project from good to unforgettable.
+
+## Steve Jobs and the iPhone: A 10-80-10 Story
+
+Take Steve Jobs and the development of the iPhone. In the early stages, Jobs was hands-on, setting the vision for a revolutionary device that would combine a phone, an iPod, and an internet communicator. He laid out the blueprint and challenged the team to think differently.
+
+Then, during the middle 80%, he stepped back, trusting his engineers and designers to bring the vision to life. He wasn’t involved in every single technical detail, but he checked in regularly to ensure things were progressing.
+
+In the final 10%, Jobs returned, obsessing over the user interface and design details. He reviewed the smallest elements—the feel of the touchscreen, the smoothness of the animations. And when the product was ready, Jobs took the stage, unveiling the iPhone to the world, turning it from a finished product into an iconic moment in tech history.
+
+This is the 10-80-10 principle in action: set the vision, trust your team, and return to make the final product unforgettable.
