@@ -5,6 +5,9 @@ date: 2026-01-18
 categories: [blog, software-engineering]
 tags: [estimation, requirements, knowledge-management, ai, tacit-knowledge]
 excerpt: "Why software estimation fails despite better tools: Requirements capture the 'what' while losing the 'why,' creating a Knowledge Transfer Tax that compounds when using historical data. As AI enters development, we face a critical choice."
+toc: true
+toc_label: "On This Page"
+toc_sticky: true
 ---
 
 # The Intent Gap in Software Requirements
