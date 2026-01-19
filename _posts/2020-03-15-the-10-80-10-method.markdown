@@ -1,11 +1,18 @@
 ---
-layout: post
-title: The 10-80-10 Principle. Maximize Your Time for Extraordinary Results
-date: 2020-03-15 09:57:20 +0300
-description: A method to maximize your impact as a leader. # Add post description (optional)
-img: steve-jobs-and-iphone.jpg # Add image post (optional)
-fig-caption: Steve Jobs and the iPhone # Add figcaption (optional)
-tags: [Time management, Mental Models,Leadership]
+layout: single
+title: "The 10-80-10 Principle: Maximize Your Time for Extraordinary Results"
+date: 2020-03-15
+excerpt: "A method to maximize your impact as a leader."
+header:
+  image: /assets/img/steve-jobs-and-iphone.jpg
+  caption: "Steve Jobs and the iPhone"
+tags:
+  - time-management
+  - mental-models
+  - leadership
+toc: true
+toc_label: "Contents"
+toc_sticky: true
 ---
 Great leadership isn’t about doing everything yourself; it’s about knowing when to lead, when to support, and when to elevate. The 10-80-10 principle delivers a straightforward framework to maximize your impact and empower your team. Here’s how it works:
 

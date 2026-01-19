@@ -1,37 +1,110 @@
-title: Esteban Sancho's blog
-description: > # this means to ignore newlines until "baseurl:"
-  Esteban Sancho blogs here about software and life. He's focused on
-  helping organizations improve how they deliver software so they
-  have better chances how changing people lives for the better.
-permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "air"
 
-# Author Settings
-author: Esteban Sancho # add your name
-author-img: esteban-sancho.jpg # add your photo
-about-author: I help organizations build better software. They change people lives for the better. # add description
-social-twitter: esteban_sancho # add your Twitter handle
-# social-facebook: # add your Facebook handle
-social-github: e11o # add your Github handle
-social-linkedin: estebansancho # add your Linkedin handle
-social-email: me@estebansancho.com # add your Email address
+# Site Settings
+title: "Esteban Sancho"
+title_separator: "|"
+subtitle: "Essays on Software and Leadership"
+name: "Esteban Sancho"
+description: >-
+  Esteban Sancho writes about software delivery, leadership, and helping
+  organizations build better software to change people's lives for the better.
+url: "https://estebansancho.com"
+baseurl: ""
+repository: "e11o/e11o.github.com"
 
-# Disqus
-discus-identifier: esancho # add your discus identifier
+# Site Author
+author:
+  name: "Esteban Sancho"
+  avatar: "/assets/img/esteban-sancho.jpg"
+  bio: "I help organizations build better software to change people's lives for the better."
+  location: "Remote"
+  email: "me@estebansancho.com"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/esteban_sancho"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/e11o"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/estebansancho"
 
-# Tracker
-analytics: UA-39952722-2 # Google Analytics
+# Reading Files
+include:
+  - _pages
 
-# Build Settings
+exclude:
+  - vendor
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - review.txt
+
+# Conversion
 markdown: kramdown
+highlighter: rouge
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..3
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+# Plugins
 plugins:
-  - jekyll-sitemap
   - jekyll-paginate
-  - jemoji
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
-paginate: 8
-paginate_path: "/page/:num"
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: true
+      show_date: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-39952722-2"
+    anonymize_ip: false

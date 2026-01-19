@@ -1,0 +1,208 @@
+# estebansancho.com — Blog Platform & Theme Decision Report
+
+**Date:** January 2026
+**Author:** Esteban Sancho
+**Scope:** Personal blog platform, theme selection, and publishing approach for long-form essays
+
+---
+
+## 1. Objective
+
+Establish a durable, high-quality publishing setup for long-form, idea-driven writing (e.g. *The Intent Gap in Software Requirements*) that:
+
+* Maximizes readability and credibility
+* Feels calm, serious, and timeless
+* Is easy to maintain and publish via GitHub
+* Supports gradual growth into an essay archive rather than a “dev blog”
+
+---
+
+## 2. Constraints & Non-Goals
+
+### Constraints
+
+* Must be supported by **GitHub Pages**
+* Prefer static generation (no runtime backend)
+* Low operational overhead
+* Content-first (no heavy UI or interactivity)
+
+### Explicit Non-Goals
+
+* Chasing visual novelty or theme personality
+* Optimizing for comments or social engagement
+* Over-branding or “personal homepage” theatrics
+
+---
+
+## 3. Platform Evaluation
+
+### Considered Options
+
+| Option                      | Evaluation                                                              |
+| --------------------------- | ----------------------------------------------------------------------- |
+| Current custom Jekyll setup | Too minimal, lacks navigation, archives, and modern reading UX          |
+| Hugo / Eleventy             | Strong technically, but adds migration friction with no decisive upside |
+| Jekyll (modern theme)       | Best balance of simplicity, GitHub Pages support, and maturity          |
+
+### Decision
+
+**Stay on Jekyll**, but adopt a modern, essay-friendly theme.
+
+Rationale:
+
+* Native GitHub Pages support
+* Mature ecosystem
+* Minimal operational complexity
+* Easy future extensibility (TOC, tags, archives)
+
+---
+
+## 4. Theme Selection
+
+### Candidates Evaluated
+
+* Minimal Mistakes
+* Chirpy
+* Just the Docs
+
+### Decision
+
+**Minimal Mistakes** selected as the base theme.
+
+**Why Minimal Mistakes**
+
+* Excellent long-form readability
+* Proven stability
+* Built-in support for:
+
+  * Tags and categories
+  * Table of contents
+  * Author metadata
+  * Archives
+* Fully compatible with GitHub Pages via `remote_theme`
+
+Chirpy was rejected due to heavier build requirements.
+Just the Docs was rejected due to its documentation-first aesthetic.
+
+---
+
+## 5. Skin (Visual Style) Decision
+
+### Skins Evaluated
+
+* Air
+* Contrast
+* Dark
+* Dirt / Mint / Aqua / Sunrise
+* Neon / Plum
+
+### Decision
+
+**Contrast skin (default)**
+
+### Rationale
+
+* Best readability for long essays
+* Neutral, editorial tone
+* Lets typography and structure carry authority
+* Ages well over time
+* Aligns with a “quiet, serious thinker” aesthetic
+
+**Explicit rejections**
+
+* Air: too default / starter-blog feel
+* Dark: polarizing, weaker for long reading
+* Colored skins: add unnecessary personality
+* Neon / Plum: demo skins, not essay environments
+
+Optional future enhancement:
+
+* Offer Dark as a *reader-controlled toggle*, not default
+
+---
+
+## 6. Content Model Decisions
+
+### Article Structure
+
+Each essay will be conceptually split into two layers:
+
+**Layer 1 — Public Essay**
+
+* Clear hook
+* Structured argument
+* Strong conclusion
+* Designed to be read linearly
+
+**Layer 2 — Notes / Research (Optional)**
+
+* Development notes
+* Research questions
+* Outlines and tangents
+* Either:
+
+  * Collapsible (`<details>`), or
+  * Separate linked page
+
+This preserves intellectual rigor without diluting the reading experience.
+
+---
+
+## 7. Post Layout Decisions
+
+* Layout: `single`
+* Optional Table of Contents for long posts
+* Minimal or no sidebar on articles
+* Focus on line length, spacing, and hierarchy
+* Comments not required initially
+
+Interaction model:
+
+* Essays stand on their own
+* Responses handled via direct outreach or external platforms
+
+---
+
+## 8. Navigation & Site Structure (Planned)
+
+Minimum viable structure:
+
+* `/` — latest essays
+* `/about` — writing focus and credibility
+* `/posts` — full archive
+* `/topics` — tag-based exploration
+* RSS feed enabled
+
+---
+
+## 9. Next Implementation Steps
+
+1. Switch site to **Minimal Mistakes (remote_theme)**
+2. Set skin to **contrast**
+3. Configure basic navigation (home, about, posts, topics)
+4. Publish *The Intent Gap* using the new structure
+5. Remove legacy elements (unused social links, outdated sharing)
+
+---
+
+## 10. Summary
+
+The chosen setup intentionally prioritizes:
+
+* Readability over personality
+* Authority over novelty
+* Longevity over trends
+
+**Final stack**
+
+* Platform: Jekyll
+* Theme: Minimal Mistakes
+* Skin: Contrast
+* Content style: long-form essays, editorial tone
+
+This creates a publishing home designed to be referenced, reread, and trusted.
+
+---
+
+**Status:** Decisions finalized
+**Next action:** Implement theme + publish first flagship essay
