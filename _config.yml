@@ -19,18 +19,17 @@ author:
   name: "Esteban Sancho"
   avatar: "/assets/img/esteban-sancho.jpg"
   bio: "Esteban Sancho works at the intersection of software, organizations, and human behavior. He helps teams build better systems, and writes about why so many well-intended efforts fail to deliver."
-  location: "Remote"
   email: "me@estebansancho.com"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/estebansancho"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/esteban_sancho"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/e11o"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/estebansancho"
 
 # Reading Files
 include:
