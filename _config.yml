@@ -14,6 +14,9 @@ url: "https://estebansancho.com"
 baseurl: ""
 repository: "e11o/e11o.github.com"
 
+# Site icons
+favicon: /assets/img/favicon/favicon.ico
+
 # Site Author
 author:
   name: "Esteban Sancho"
@@ -41,7 +44,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - review.txt
 
 # Conversion
 markdown: kramdown
