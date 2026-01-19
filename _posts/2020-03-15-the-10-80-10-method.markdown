@@ -7,9 +7,6 @@ tags:
   - time-management
   - mental-models
   - leadership
-toc: true
-toc_label: "On This Page"
-toc_sticky: true
 ---
 Great leadership isn’t about doing everything yourself; it’s about knowing when to lead, when to support, and when to elevate. The 10-80-10 principle delivers a straightforward framework to maximize your impact and empower your team. Here’s how it works:
 
