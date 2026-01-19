@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Intent Gap in Software Requirements"
 date: 2026-01-18
 categories: [blog, software-engineering]

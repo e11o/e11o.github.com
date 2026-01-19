@@ -9,7 +9,7 @@ subtitle: "Essays on Software and Leadership"
 name: "Esteban Sancho"
 description: >-
   Esteban Sancho works at the intersection of software, organizations, and human behavior.
-  He helps teams build better systems—and writes about why so many well-intended efforts fail to deliver.
+  He helps teams build better systems, and writes about why so many well-intended efforts fail to deliver.
 url: "https://estebansancho.com"
 baseurl: ""
 repository: "e11o/e11o.github.com"
@@ -18,7 +18,7 @@ repository: "e11o/e11o.github.com"
 author:
   name: "Esteban Sancho"
   avatar: "/assets/img/esteban-sancho.jpg"
-  bio: "Esteban Sancho works at the intersection of software, organizations, and human behavior. He helps teams build better systems—and writes about why so many well-intended efforts fail to deliver."
+  bio: "Esteban Sancho works at the intersection of software, organizations, and human behavior. He helps teams build better systems, and writes about why so many well-intended efforts fail to deliver."
   location: "Remote"
   email: "me@estebansancho.com"
   links:
