@@ -7,7 +7,7 @@ img: steve-jobs-and-iphone.jpg # Add image post (optional)
 fig-caption: Steve Jobs and the iPhone # Add figcaption (optional)
 tags: [Time management, Mental Models,Leadership]
 ---
-Great leadership isn’t about doing everything yourself; it’s about knowing when to lead, when to support, and when to elevate. The 10-80-10 principle offers a straightforward framework to maximize your impact and empower your team. Here’s how it works:
+Great leadership isn’t about doing everything yourself; it’s about knowing when to lead, when to support, and when to elevate. The 10-80-10 principle delivers a straightforward framework to maximize your impact and empower your team. Here’s how it works:
 
 1\. __The First 10%: Set the Vision__
 
