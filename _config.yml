@@ -1,6 +1,6 @@
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "contrast"
 
 # Site Settings
 title: "Esteban Sancho"
@@ -8,8 +8,8 @@ title_separator: "|"
 subtitle: "Essays on Software and Leadership"
 name: "Esteban Sancho"
 description: >-
-  Esteban Sancho writes about software delivery, leadership, and helping
-  organizations build better software to change people's lives for the better.
+  Esteban Sancho works at the intersection of software, organizations, and human behavior.
+  He helps teams build better systems—and writes about why so many well-intended efforts fail to deliver.
 url: "https://estebansancho.com"
 baseurl: ""
 repository: "e11o/e11o.github.com"

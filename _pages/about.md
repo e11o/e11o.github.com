@@ -5,17 +5,23 @@ layout: single
 author_profile: true
 ---
 
-I help organizations build better software to change people's lives for the better.
+I work as a technology leader, but I write to understand **why things happen**.
 
-Through this blog, I share essays on software delivery, leadership, and the mental models that drive effective teams. My writing focuses on the "why" behind decisions, not just the "what."
+Most writing about software focuses on practices, tools, or frameworks. Some of it is useful. Much of it misses the deeper question: why well-intended efforts, led by capable people, so often produce systems that disappoint.
 
-## Focus Areas
+This site exists to explore that gap.
 
-- Software requirements and the intent gap
-- Leadership and team dynamics
-- Time management and prioritization
-- Building sustainable software practices
+Over the years, I’ve worked with organizations of different sizes and levels of complexity, helping them build software systems and the teams behind them. I’ve held senior leadership roles, carried formal responsibility, and seen firsthand how decisions made with clarity at the top slowly distort as they move through people, incentives, and structure.
 
-## Connect
+What interests me is not failure in the abstract, but *mechanism*:
+how intent degrades into process, how structure reshapes behavior, and how systems quietly override what individuals believe they are doing.
 
-Feel free to reach out via [email](mailto:me@estebansancho.com) or connect on [Twitter](https://twitter.com/esteban_sancho), [GitHub](https://github.com/e11o), or [LinkedIn](https://linkedin.com/in/estebansancho).
+The essays here are not tutorials and not prescriptions. They are attempts to name patterns that tend to repeat across organizations, regardless of tooling, methodology, or maturity. Many of them start from situations that felt confusing or contradictory at the time, and are written only after those situations became legible.
+
+I write primarily for people who carry responsibility: CTOs, senior leaders, investors, and operators who sense that something is off, even when metrics look fine and plans appear sound. If you’ve ever wondered why a change “made sense” yet failed to land—or why an organization keeps producing the same outcomes despite sincere effort—these essays are for you.
+
+This is not a consulting site, a résumé, or a collection of hot takes. I’m not interested in performance or persuasion. I write to clarify my own thinking, and to offer language that others may find useful when reasoning about their own systems.
+
+If something here resonates, you’re welcome to reach out. I read every message, even if I can’t always reply.
+
+— Esteban
