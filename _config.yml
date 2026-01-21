@@ -27,9 +27,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/estebansancho"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/esteban_sancho"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/esteban_sancho"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/e11o"
@@ -107,5 +107,5 @@ defaults:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-39952722-2"
+    tracking_id: "G-MMJNJTMGQJ"
     anonymize_ip: false
