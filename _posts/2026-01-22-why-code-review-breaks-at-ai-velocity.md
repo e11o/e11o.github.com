@@ -82,7 +82,7 @@ This is functional correctness. Does the authentication system actually authenti
 
 Why humans? Because correctness requires understanding intent. What did the stakeholder actually want? What does "correctly authenticated" mean in this business context? What edge cases matter?
 
-Automated tools "cannot take the developer's intentions and general business logic into consideration." An AI can check if code matches a spec. It can't tell you if the spec captured the right intent.
+Automated tools cannot take the developer's intentions and general business logic into consideration. An AI can check if code matches a spec. It can't tell you if the spec captured the right intent.
 
 ### 2. Design Confidence: Is it structured for change?
 
@@ -102,7 +102,7 @@ This is security, performance, compliance. Does the authentication system have S
 
 Why automation? Because quality attributes are, as Bass et al. defined them, "measurable and testable." Security scanners check for vulnerability patterns. Performance tests measure response times. Linters enforce standards. **Static analyzers detect resource leaks.**
 
-My socket leak? That was a quality attribute issue. A deterministic problem that a static analyzer should have caught and blocked automatically. Instead, it relied on human code review—I noticed it, but the code still shipped.
+My socket leak? That was a quality attribute issue. A deterministic problem that a static analyzer should have caught and blocked automatically. Instead, it relied on human code review. I noticed it, but the code still shipped.
 
 Research shows automated security scanning is "faster, more consistent, and has a more comprehensive scope" than human review. Humans get fatigued. We miss patterns. Even when we catch issues, we can't enforce fixes. Automated tools don't have those limitations.
 
