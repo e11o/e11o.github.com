@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "The Confidence Dimensions Framework: Rethinking Software Quality in the AI Era"
+layout: single
+title: "Why Code Review Breaks at AI Velocity"
 date: 2026-01-24
 categories: [blog]
 tags: [ai-development, mental-models, software-quality, code-review, spec-driven-development]
@@ -10,7 +10,7 @@ toc_label: "On This Page"
 toc_sticky: true
 ---
 
-# The Confidence Dimensions Framework: Rethinking Software Quality in the AI Era
+# Why Code Review Breaks at AI Velocity
 
 Nearly half of all code is now AI-generated. Twenty million developers use GitHub Copilot. They're writing code 55% faster than before.
 
