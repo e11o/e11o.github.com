@@ -10,8 +10,6 @@ toc_label: "On This Page"
 toc_sticky: true
 ---
 
-# Why Code Review Breaks at AI Velocity
-
 Nearly half of all code is now AI-generated. Twenty million developers use GitHub Copilot. They're writing code 55% faster than before.
 
 Your code review process wasn't designed for this.

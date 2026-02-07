@@ -10,8 +10,6 @@ toc_label: "On This Page"
 toc_sticky: true
 ---
 
-# The Intent Gap in Software Requirements
-
 Your team estimated the new payment integration at three weeks.
 
 The rationale was solid. You built a similar OAuth flow last quarter. Same tech stack. Same patterns. The requirements looked almost identical.
